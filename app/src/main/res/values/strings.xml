@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleActivityResult</string>
+    <string name="title_nameactivity">Вторая активность</string>
+</resources>
